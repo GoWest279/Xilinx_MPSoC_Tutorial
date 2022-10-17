@@ -17,4 +17,9 @@ Use the AXI IIC IP to communicate with the IMX274 camera
 
 * Partioner: master controllers (master) and slave controllers (slave).
 
-    For example: 1 controller + 1 slave
+    For example:
+    * 1 controller + 1 slave
+    * 1 controller + $N$ slave
+    * $N$ controller + $N$ slace
+
+* 
